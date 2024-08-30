@@ -91,15 +91,10 @@ async function setPricePerUnitFromPriceListItems(executionContext) {
         </fetch>`;
 
         const result = await Xrm.WebApi.retrieveMultipleRecords("cre75_price_list_item", `?fetchXml=${encodeURIComponent(fetchXml1)}`);
-        console.log(result);
         pricePerUnit = result.entities?.[0]?.['cre75_mon_price']
-        console.log('pricePerUnit:', pricePerUnit);
-
       }
       if (!pricePerUnit) {
         const product = await Xrm.WebApi.retrieveRecord("cre75_product", productId, "?$select=cre75_mon_price_per_unit");
-        console.log('product:', product);
-
         pricePerUnit = product['cre75_mon_price_per_unit'];
       }
 
