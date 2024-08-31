@@ -106,20 +106,3 @@ async function setPricePerUnitFromPriceListItems(executionContext) {
     }
   }
 }
-
-
-const fetchXml = `<fetch distinct="true" mapping="logical" output-format="xml-platform" version="1.0">
-  <entity name="cre75_inventory">
-    <filter type="and">
-      <condition attribute="cre75_inventoryid" value="${inventoryId}"operator="eq" />
-    </filter>
-    <link-entity name="cre75_price_list" alias="aa" link-type="inner" to="cre75_fk_price_list" from="cre75_price_listid">
-      <link-entity name="cre75_price_list_item" alias="ab" link-type="inner" to="cre75_price_listid" from="cre75_fk_price_list">
-        <filter type="and">
-          <condition attribute="cre75_fk_product" operator="eq" />
-          <condition attribute="cre75_mon_price" value="" operator="eq" />
-        </filter>
-      </link-entity>
-    </link-entity>
-  </entity>
-</fetch>`
