@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet"
+    href="https://org48e5d0b2.crm4.dynamics.com//WebResources/cre75_style_for_inventory_product_popup">
+  <script src="https://org48e5d0b2.crm4.dynamics.com//WebResources/cre75_action_in_inventory_product_popup"></script>
+  <title>Document</title>
+</head>
+
+<body>
+  <label for="product">Choose a product:</label>
+  <select id="product" name="product">
+    <option value="">--Select a product--</option>
+  </select>
+
+  <br><br>
+
+  <label for="operation">Choose an operation:</label>
+  <select id="operation" name="operation">
+    <option value="">--Select an operation--</option>
+    <option value="in">In</option>
+    <option value="out">Out</option>
+  </select>
+
+  <br><br>
+
+  <label for="quantity">Enter quantity:</label>
+  <input type="number" id="quantity" name="quantity" min="1" placeholder="Quantity">
+
+  <br><br>
+
+  <button id="ok-btn" type="button">OK</button>
+  <button id="cancel-btn" type="button">Cancel</button>
+  <div id="message-container"></div>
+</body>
+
+</html>
