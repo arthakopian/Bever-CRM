@@ -16,7 +16,7 @@ function openInventoryProductPopup(formContext) {
 
   Xrm.Navigation.navigateTo(pageInput, navigationOptions).then(
     function success() {
-
+      formContext.data.refresh(true)
     },
     function error() {
 
