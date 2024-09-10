@@ -1,0 +1,16 @@
+{
+    "webresources": [
+        {
+            "profile": "default,debug",
+            "root": "",
+            "solution": "FirstSolution",
+            "files": [
+                {
+                    "uniquename": "cre75_action_in_inventory_product_popup",
+                    "file": "../../Front-End/D365 JS/script.js",
+                    "description": "Action in inventory product popup"
+                }
+            ]
+        }
+    ]
+}
