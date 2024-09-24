@@ -9,6 +9,21 @@
                     "uniquename": "cre75_action_in_inventory_product_popup",
                     "file": "../../Front-End/D365 JS/script.js",
                     "description": "Action in inventory product popup"
+                },
+                {
+                    "uniquename": "cre75_filter_contact_based_on_customer",
+                    "file": "../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js",
+                    "description": "Filter Contact Based On Customer"
+                },
+                {
+                    "uniquename": "cre75_filter_product_based_on_inventory",
+                    "file": "../../Front-End/D365 JS/taskAfterLesson15/filterProductBasedOnInventory.js",
+                    "description": "Filter Product Based On Inventory"
+                },
+                {
+                    "uniquename": "cre75_autofill_inventory_field_on_WOP",
+                    "file": "../../Front-End/D365 JS/taskAfterLesson16/autofillInventoryFieldOnWOP.js",
+                    "description": "Autofill Inventory Field On WOP"
                 }
             ]
         }

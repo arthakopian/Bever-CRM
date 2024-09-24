@@ -18,3 +18,348 @@
 17:32:45	Publish complete.
 17:32:45	Processed 1 section(s)
 17:32:45	Processed 1 config(s)
+19:02:00	Deploying WebResources
+19:02:00	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+19:02:00	cre75_action_in_inventory_product_popup has not changed, skipping...
+19:02:01	cre75_filter_contact_based_on_customer has not changed, skipping...
+19:02:01	Deployed 0 webresource(s)
+19:02:01	Publishing 0 webresources...
+19:02:01	Publish complete.
+19:02:01	Processed 1 section(s)
+19:02:01	Processed 1 config(s)
+19:42:08	Deploying WebResources
+19:42:08	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+19:42:08	cre75_action_in_inventory_product_popup has not changed, skipping...
+19:42:08	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+19:42:09	Adding to solution 'FirstSolution'
+19:42:10	Deployed 1 webresource(s)
+19:42:10	Publishing 1 webresources...
+19:42:13	Publish complete.
+19:42:13	Processed 1 section(s)
+19:42:13	Processed 1 config(s)
+19:43:41	Deploying WebResources
+19:43:41	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+19:43:42	cre75_action_in_inventory_product_popup has not changed, skipping...
+19:43:42	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+19:43:43	Adding to solution 'FirstSolution'
+19:43:44	Deployed 1 webresource(s)
+19:43:44	Publishing 1 webresources...
+19:43:46	Publish complete.
+19:43:46	Processed 1 section(s)
+19:43:46	Processed 1 config(s)
+20:00:00	Deploying WebResources
+20:00:00	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:00:01	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:00:01	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:00:02	Adding to solution 'FirstSolution'
+20:00:02	Deployed 1 webresource(s)
+20:00:02	Publishing 1 webresources...
+20:00:05	Publish complete.
+20:00:05	Processed 1 section(s)
+20:00:05	Processed 1 config(s)
+20:10:41	Deploying WebResources
+20:10:41	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:10:44	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:10:44	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:10:46	Adding to solution 'FirstSolution'
+20:10:47	Deployed 1 webresource(s)
+20:10:47	Publishing 1 webresources...
+20:10:50	Publish complete.
+20:10:50	Processed 1 section(s)
+20:10:50	Processed 1 config(s)
+20:20:59	Deploying WebResources
+20:20:59	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:21:00	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:21:00	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:21:01	Adding to solution 'FirstSolution'
+20:21:02	Deployed 1 webresource(s)
+20:21:02	Publishing 1 webresources...
+20:21:04	Publish complete.
+20:21:04	Processed 1 section(s)
+20:21:04	Processed 1 config(s)
+20:22:17	Deploying WebResources
+20:22:17	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:22:18	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:22:18	cre75_filter_contact_based_on_customer has not changed, skipping...
+20:22:18	Deployed 0 webresource(s)
+20:22:18	Publishing 0 webresources...
+20:22:18	Publish complete.
+20:22:18	Processed 1 section(s)
+20:22:18	Processed 1 config(s)
+20:25:43	Deploying WebResources
+20:25:43	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:25:45	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:25:45	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:25:46	Adding to solution 'FirstSolution'
+20:25:47	Deployed 1 webresource(s)
+20:25:47	Publishing 1 webresources...
+20:25:50	Publish complete.
+20:25:50	Processed 1 section(s)
+20:25:50	Processed 1 config(s)
+20:28:12	Deploying WebResources
+20:28:12	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:28:12	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:28:12	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:28:13	Adding to solution 'FirstSolution'
+20:28:14	Deployed 1 webresource(s)
+20:28:14	Publishing 1 webresources...
+20:28:17	Publish complete.
+20:28:17	Processed 1 section(s)
+20:28:17	Processed 1 config(s)
+20:31:42	Deploying WebResources
+20:31:42	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:31:43	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:31:43	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:31:44	Adding to solution 'FirstSolution'
+20:31:44	Deployed 1 webresource(s)
+20:31:44	Publishing 1 webresources...
+20:31:47	Publish complete.
+20:31:47	Processed 1 section(s)
+20:31:47	Processed 1 config(s)
+20:40:56	Deploying WebResources
+20:40:56	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:40:56	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:40:56	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:40:57	Adding to solution 'FirstSolution'
+20:40:58	Deployed 1 webresource(s)
+20:40:58	Publishing 1 webresources...
+20:41:00	Publish complete.
+20:41:00	Processed 1 section(s)
+20:41:00	Processed 1 config(s)
+20:48:59	Deploying WebResources
+20:48:59	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:48:59	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:49:00	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:49:01	Adding to solution 'FirstSolution'
+20:49:02	Deployed 1 webresource(s)
+20:49:02	Publishing 1 webresources...
+20:49:04	Publish complete.
+20:49:04	Processed 1 section(s)
+20:49:04	Processed 1 config(s)
+20:51:29	Deploying WebResources
+20:51:29	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:51:29	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:51:29	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:51:30	Adding to solution 'FirstSolution'
+20:51:31	Deployed 1 webresource(s)
+20:51:31	Publishing 1 webresources...
+20:51:33	Publish complete.
+20:51:33	Processed 1 section(s)
+20:51:33	Processed 1 config(s)
+20:52:05	Deploying WebResources
+20:52:05	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:52:06	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:52:06	cre75_filter_contact_based_on_customer has not changed, skipping...
+20:52:06	Deployed 0 webresource(s)
+20:52:06	Publishing 0 webresources...
+20:52:06	Publish complete.
+20:52:06	Processed 1 section(s)
+20:52:06	Processed 1 config(s)
+20:52:49	Deploying WebResources
+20:52:49	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:52:50	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:52:50	cre75_filter_contact_based_on_customer has not changed, skipping...
+20:52:50	Deployed 0 webresource(s)
+20:52:50	Publishing 0 webresources...
+20:52:50	Publish complete.
+20:52:50	Processed 1 section(s)
+20:52:50	Processed 1 config(s)
+20:55:04	Deploying WebResources
+20:55:04	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:55:04	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:55:04	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:55:06	Adding to solution 'FirstSolution'
+20:55:07	Deployed 1 webresource(s)
+20:55:07	Publishing 1 webresources...
+20:55:09	Publish complete.
+20:55:09	Processed 1 section(s)
+20:55:09	Processed 1 config(s)
+20:56:26	Deploying WebResources
+20:56:26	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+20:56:26	cre75_action_in_inventory_product_popup has not changed, skipping...
+20:56:26	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+20:56:27	Adding to solution 'FirstSolution'
+20:56:27	Deployed 1 webresource(s)
+20:56:27	Publishing 1 webresources...
+20:56:30	Publish complete.
+20:56:30	Processed 1 section(s)
+20:56:30	Processed 1 config(s)
+21:01:43	Deploying WebResources
+21:01:43	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:01:44	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:01:44	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:01:45	Adding to solution 'FirstSolution'
+21:01:45	Deployed 1 webresource(s)
+21:01:45	Publishing 1 webresources...
+21:01:48	Publish complete.
+21:01:48	Processed 1 section(s)
+21:01:48	Processed 1 config(s)
+21:05:59	Deploying WebResources
+21:05:59	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:06:00	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:06:00	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:06:01	Adding to solution 'FirstSolution'
+21:06:01	Deployed 1 webresource(s)
+21:06:01	Publishing 1 webresources...
+21:06:04	Publish complete.
+21:06:04	Processed 1 section(s)
+21:06:04	Processed 1 config(s)
+21:08:34	Deploying WebResources
+21:08:34	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:08:34	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:08:34	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:08:35	Adding to solution 'FirstSolution'
+21:08:36	Deployed 1 webresource(s)
+21:08:36	Publishing 1 webresources...
+21:08:39	Publish complete.
+21:08:39	Processed 1 section(s)
+21:08:39	Processed 1 config(s)
+21:12:38	Deploying WebResources
+21:12:38	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:12:39	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:12:39	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:12:40	Adding to solution 'FirstSolution'
+21:12:40	Deployed 1 webresource(s)
+21:12:40	Publishing 1 webresources...
+21:12:43	Publish complete.
+21:12:43	Processed 1 section(s)
+21:12:43	Processed 1 config(s)
+21:14:38	Deploying WebResources
+21:14:38	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:14:39	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:14:39	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:14:40	Adding to solution 'FirstSolution'
+21:14:40	Deployed 1 webresource(s)
+21:14:40	Publishing 1 webresources...
+21:14:43	Publish complete.
+21:14:43	Processed 1 section(s)
+21:14:43	Processed 1 config(s)
+21:16:03	Deploying WebResources
+21:16:03	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:16:04	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:16:04	cre75_filter_contact_based_on_customer has not changed, skipping...
+21:16:04	Deployed 0 webresource(s)
+21:16:04	Publishing 0 webresources...
+21:16:04	Publish complete.
+21:16:04	Processed 1 section(s)
+21:16:04	Processed 1 config(s)
+21:17:10	Deploying WebResources
+21:17:10	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:17:10	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:17:10	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:17:11	Adding to solution 'FirstSolution'
+21:17:12	Deployed 1 webresource(s)
+21:17:12	Publishing 1 webresources...
+21:17:15	Publish complete.
+21:17:15	Processed 1 section(s)
+21:17:15	Processed 1 config(s)
+21:19:45	Deploying WebResources
+21:19:45	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:19:46	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:19:46	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:19:47	Adding to solution 'FirstSolution'
+21:19:48	Deployed 1 webresource(s)
+21:19:48	Publishing 1 webresources...
+21:19:50	Publish complete.
+21:19:50	Processed 1 section(s)
+21:19:50	Processed 1 config(s)
+21:21:04	Deploying WebResources
+21:21:05	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+21:21:05	cre75_action_in_inventory_product_popup has not changed, skipping...
+21:21:05	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+21:21:06	Adding to solution 'FirstSolution'
+21:21:06	Deployed 1 webresource(s)
+21:21:06	Publishing 1 webresources...
+21:21:09	Publish complete.
+21:21:09	Processed 1 section(s)
+21:21:09	Processed 1 config(s)
+22:11:08	Deploying WebResources
+22:11:08	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:11:08	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:11:08	cre75_filter_contact_based_on_customer has not changed, skipping...
+22:11:09	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterProductBasedOnInventory.js' -> 'cre75_filter_product_based_on_inventory'
+22:11:09	Adding to solution 'FirstSolution'
+22:11:10	Deployed 1 webresource(s)
+22:11:10	Publishing 1 webresources...
+22:11:12	Publish complete.
+22:11:12	Processed 1 section(s)
+22:11:12	Processed 1 config(s)
+22:13:15	Deploying WebResources
+22:13:15	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:13:15	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:13:15	cre75_filter_contact_based_on_customer has not changed, skipping...
+22:13:16	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterProductBasedOnInventory.js' -> 'cre75_filter_product_based_on_inventory'
+22:13:16	Adding to solution 'FirstSolution'
+22:13:17	Deployed 1 webresource(s)
+22:13:17	Publishing 1 webresources...
+22:13:19	Publish complete.
+22:13:19	Processed 1 section(s)
+22:13:19	Processed 1 config(s)
+22:14:56	Deploying WebResources
+22:14:57	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:14:57	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:14:57	cre75_filter_contact_based_on_customer has not changed, skipping...
+22:14:57	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterProductBasedOnInventory.js' -> 'cre75_filter_product_based_on_inventory'
+22:14:58	Adding to solution 'FirstSolution'
+22:14:59	Deployed 1 webresource(s)
+22:14:59	Publishing 1 webresources...
+22:15:01	Publish complete.
+22:15:01	Processed 1 section(s)
+22:15:01	Processed 1 config(s)
+22:16:44	Deploying WebResources
+22:16:44	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:16:44	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:16:44	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterContactBasedOnCustomer.js' -> 'cre75_filter_contact_based_on_customer'
+22:16:45	Adding to solution 'FirstSolution'
+22:16:46	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterProductBasedOnInventory.js' -> 'cre75_filter_product_based_on_inventory'
+22:16:47	Adding to solution 'FirstSolution'
+22:16:47	Deployed 2 webresource(s)
+22:16:47	Publishing 2 webresources...
+22:16:49	Publish complete.
+22:16:49	Processed 1 section(s)
+22:16:49	Processed 1 config(s)
+22:18:02	Deploying WebResources
+22:18:02	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:18:02	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:18:02	cre75_filter_contact_based_on_customer has not changed, skipping...
+22:18:02	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/filterProductBasedOnInventory.js' -> 'cre75_filter_product_based_on_inventory'
+22:18:03	Adding to solution 'FirstSolution'
+22:18:04	Deployed 1 webresource(s)
+22:18:04	Publishing 1 webresources...
+22:18:06	Publish complete.
+22:18:06	Processed 1 section(s)
+22:18:06	Processed 1 config(s)
+22:44:28	Deploying WebResources
+22:44:28	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:44:28	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:44:29	cre75_filter_contact_based_on_customer has not changed, skipping...
+22:44:29	cre75_filter_product_based_on_inventory has not changed, skipping...
+22:44:29	Deployed 0 webresource(s)
+22:44:29	Publishing 0 webresources...
+22:44:29	Publish complete.
+22:44:29	Processed 1 section(s)
+22:44:29	Processed 1 config(s)
+22:49:47	Deploying WebResources
+22:49:47	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:49:47	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:49:48	cre75_filter_contact_based_on_customer has not changed, skipping...
+22:49:48	cre75_filter_product_based_on_inventory has not changed, skipping...
+22:49:48	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/autofillInventoryFieldOnWOP.js' -> 'cre75_autofill_inventory_field_on_WOP'
+22:49:49	Adding to solution 'FirstSolution'
+22:49:49	Deployed 1 webresource(s)
+22:49:49	Publishing 1 webresources...
+22:49:51	Publish complete.
+22:49:51	Processed 1 section(s)
+22:49:51	Processed 1 config(s)
+22:51:17	Deploying WebResources
+22:51:17	Using Config 'C:\IT\Bever Internship\D365 Training\spkl.1.0.640\content'
+22:51:18	cre75_action_in_inventory_product_popup has not changed, skipping...
+22:51:18	cre75_filter_contact_based_on_customer has not changed, skipping...
+22:51:18	cre75_filter_product_based_on_inventory has not changed, skipping...
+22:51:18	Updating Webresource '../../Front-End/D365 JS/taskAfterLesson15/autofillInventoryFieldOnWOP.js' -> 'cre75_autofill_inventory_field_on_WOP'
+22:51:19	Adding to solution 'FirstSolution'
+22:51:19	Deployed 1 webresource(s)
+22:51:19	Publishing 1 webresources...
+22:51:21	Publish complete.
+22:51:21	Processed 1 section(s)
+22:51:21	Processed 1 config(s)
